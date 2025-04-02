@@ -1,0 +1,27 @@
+* {
+    .poppins-regular {
+        font-family: "Poppins", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+    }
+
+    .poppins-medium {
+        font-family: "Poppins", sans-serif;
+        font-weight: 500;
+        font-style: normal;
+    }
+
+    .poppins-semibold {
+        font-family: "Poppins", sans-serif;
+        font-weight: 600;
+        font-style: normal;
+    }
+
+}
+
+.banner {
+    background-image: url(/8_Portfolio/images/banner1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 150px 0;
+}
